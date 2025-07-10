@@ -1,0 +1,45 @@
+body{
+    background-color: white;
+ 
+    margin: 0;
+    padding: 0;
+    
+}
+.content{  
+    max-width: 900px;
+    background-color: lightblue;
+    padding: 20px;
+    margin: auto;
+    border-color: black;
+    border-style: solid;
+}
+header{
+    background-color: blue;
+    text-align: center;
+    padding: 20px;
+    max-width: 900px;
+    margin: auto;
+    border-style: solid;   
+}
+h1{
+    margin: 0;   
+}
+.bio{
+    background-color: white;
+    padding: 20px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 10px ;
+
+}
+.bio h2{
+    margin-bottom: 10px;
+}
+.achive{
+    background-color:  white;
+    padding: 20px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+        box-shadow: 0 2px 10px ;
+
+}
